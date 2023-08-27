@@ -7,6 +7,9 @@
 
 - ⚡ Fun fact **I'm currently trying to learn Arabic**
 
+About me
+Highly motivated and self-taught web developer in the midst of a career jump. Even though I haven't worked in the field yet I'm hoping to bring my creative mindset and problem-solving skills into the world of coding. I'm committed to continuous learning and growth and can't wait to apply everything I've learned in a professional setting.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linda jensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linda jensen" height="30" width="40" /></a>
