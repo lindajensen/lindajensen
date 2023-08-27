@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">A tech-loving teacher who's trying to become a web developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 
-- 📫 How to reach me **email me or connect on LinkedIn**
+- 📫 How to reach me: **Email me or connect on LinkedIn**
 
-- ⚡ Fun fact **I'm currently trying to learn Arabic**
+- ⚡ Fun fact: **I'm currently trying to learn Arabic**
 
 <h4 align="left">About me</h4>
 <p align="left">Highly motivated and self-taught web developer in the midst of a career jump. Even though I haven't worked in the field yet I'm hoping to bring my creative mindset and problem-solving skills into the world of coding. I'm committed to continuous learning and growth and can't wait to apply everything I've learned in a professional setting.</p>
