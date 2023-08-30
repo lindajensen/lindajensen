@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A tech-loving teacher who's trying to  become a web developer 💫</p>
+<p align="left">A tech-loving teacher who's trying to  become a web developer 💻 </p>
 
 ###
 
