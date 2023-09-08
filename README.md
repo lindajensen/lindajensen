@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">- The Complete 2023 Web Development Bootcamp - Udemy  (ongoing)<br>- Introduction to Web Design and Development - LinkedIn Learning (Aug 2023)<br>- HTML Essential Training - LinkedIn Learning (Aug 2023)<br>- Creating Meaningful HTML - LinkedIn Learning (Aug 2023)<br>- Börja Koda-kursen [Start Coding] - Tjejer kodar (Aug 2023)</p>
+<p align="left">- The Complete 2023 Web Development Bootcamp - Udemy  (ongoing)
+  <br>- Introduction to Web Design and Development - LinkedIn Learning (Aug 2023)
+  <br>- HTML Essential Training - LinkedIn Learning (Aug 2023)
+  <br>- Creating Meaningful HTML - LinkedIn Learning (Aug 2023)
+  <br>- Börja Koda-kursen [Start Coding] - Tjejer kodar (Aug 2023)</p>
 
 ###
 
