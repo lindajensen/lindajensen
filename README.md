@@ -23,6 +23,7 @@
 ###
 
 <p align="left">- The Complete 2023 Web Development Bootcamp - Udemy  (ongoing)
+  <br>- Advanced Responsive Layouts with CSS Flexbox - LinkedIn Learning (Sep 2023)
   <br>- CSS Fundamentals: Unlock the Power of Web Styling - LinkedIn Learning (Sep 2023)
   <br>- Introduction to Web Design and Development - LinkedIn Learning (Aug 2023)
   <br>- HTML Essential Training - LinkedIn Learning (Aug 2023)
