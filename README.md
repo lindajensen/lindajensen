@@ -24,7 +24,8 @@
 
 <p align="left">
   - The Complete 2023 Web Development Bootcamp - Udemy (ongoing)<br>
-  - Figma Essential Training The Basics - LinkedIn Learning (Oct 2023) <br>
+  - JavaScript for Web Designers - LinkedIn Learning (Oct 2023)<br> 
+  - Figma Essential Training The Basics - LinkedIn Learning (Oct 2023)<br>
   - JavaScript Essential Training - LinkedIn Learning (Oct 2023)<br>
   - Learning the JavaScript Language - LinkedIn Learning (Oct 2023)<br>
   - CSS Essential Training - LinkedIn Learning (Sep 2023)<br>
