@@ -25,6 +25,7 @@
 <p align="left">
   - The Complete 2023 Web Development Bootcamp - Udemy (ongoing)<br>
   - The Complete JavaScript Course 2023: From Zero to Expert!  - Udemy (ongoing)<br>
+  - Simplifying Web Development with Accessibility Best Practices - LinkedIn Learning (Nov 2023)<br> 
   - JavaScript for Web Designers - LinkedIn Learning (Oct 2023)<br> 
   - Figma Essential Training The Basics - LinkedIn Learning (Oct 2023)<br>
   - JavaScript Essential Training - LinkedIn Learning (Oct 2023)<br>
