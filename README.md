@@ -24,7 +24,7 @@
 
 <p align="left">
   - The Complete 2023 Web Development Bootcamp - Udemy (ongoing)<br>
-  - The Complete JavaScript Course 2023: From Zero to Expert!  - Udemy (ongoing)<br>
+  - Modern Javascript From The Beginning 2.0 (2004) - Udemy (July 2024)<br>
   - Webbutveckling 1 (100 p) - NTI-skolan (ongoing)<br> 
   - Responsive Typography Techniques - LinkedIn Learning (Jan 2024)<br>
   - Responsive Layout - LinkedIn Learning (Dec 2023)<br> 
