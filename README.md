@@ -25,7 +25,7 @@
 <p align="left">
   - The Complete 2023 Web Development Bootcamp - Udemy (ongoing)<br>
   - Modern Javascript From The Beginning 2.0 (2004) - Udemy (July 2024)<br>
-  - Webbutveckling 1 (100 p) - NTI-skolan (ongoing)<br> 
+  - Webbutveckling 1 (100 p) - NTI-skolan (May 2024)<br> 
   - Responsive Typography Techniques - LinkedIn Learning (Jan 2024)<br>
   - Responsive Layout - LinkedIn Learning (Dec 2023)<br> 
   - Simplifying Web Development with Accessibility Best Practices - LinkedIn Learning (Nov 2023)<br> 
